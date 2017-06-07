@@ -1,6 +1,5 @@
 # spring-jms-remoting
 
-### Create files jar
 ```
 mvn clean install
 ```
