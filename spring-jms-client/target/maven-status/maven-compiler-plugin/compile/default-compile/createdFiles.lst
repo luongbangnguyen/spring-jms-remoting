@@ -1,0 +1,4 @@
+com/spring/jms/client/Client.class
+com/spring/jms/client/ClientService.class
+com/spring/jms/client/config/JmsInvokerProxyFactoryCustom.class
+com/spring/jms/client/constants/SystemConstants.class
